@@ -1,0 +1,19 @@
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get install set
+sudo setoolkit
+IP: [Seu endereço IP]
+URL: https://www.facebook.com
+# Simulação de Phishing para Fins Educacionais
+
+Este repositório contém um exemplo de como configurar um ambiente de teste de phishing usando o Kali Linux e o SEToolkit. **Este projeto é apenas para fins educacionais e deve ser realizado em um ambiente controlado e com autorização.**
+
+## Passos para Configuração
+
+### 1. Instalação do Kali Linux
+- Baixe e instale o Kali Linux.
+- Atualize o sistema:
+  ```bash
+  sudo apt-get update && sudo apt-get upgrade -y
+
+sudo apt-get install set
+sudo setoolkit
